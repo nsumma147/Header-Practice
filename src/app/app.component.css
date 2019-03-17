@@ -1,0 +1,31 @@
+div {
+}
+
+#area1 {
+  background-color: red;
+}
+
+#area2 {
+  background-color: blue;
+  text-align: left;
+}
+
+#area3 {
+  background-color: green;
+  text-align: center;
+  height:100px;
+}
+
+#area4 {
+  background-color: orange;
+
+}
+
+#area5 {
+  background-color: yellow;
+  text-align: left;
+}
+
+#area6 {
+  background-color: gray;
+}
