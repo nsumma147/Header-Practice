@@ -4,6 +4,21 @@ body {
 }
 
 div {
+  background-color: inherit;
+}
+
+#column-left {
+
+}
+
+#column-middle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#column-right{
+
 }
 
 #area1 {
@@ -19,6 +34,9 @@ div {
 #area3 {
   background-color: green;
   height: 200px;
+  text-align: center;
+  padding-top: 90px;
+  padding-bottom: 90px;
 }
 
 #area4 {
