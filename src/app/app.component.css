@@ -1,31 +1,32 @@
+body {
+  background-color: gray;
+  height: 200px;
+}
+
 div {
 }
 
 #area1 {
   background-color: red;
+  height: 100px;
 }
 
 #area2 {
   background-color: blue;
-  text-align: left;
+  height: 100px;
 }
 
 #area3 {
   background-color: green;
-  text-align: center;
-  height:100px;
+  height: 200px;
 }
 
 #area4 {
   background-color: orange;
-
+  height: 100px;
 }
 
 #area5 {
   background-color: yellow;
-  text-align: left;
-}
-
-#area6 {
-  background-color: gray;
+  height: 100px;
 }
