@@ -1,5 +1,10 @@
+html {
+  background-color: #38B8EB;
+  height:1000px;
+}
+
 body {
-  background-color: gray;
+  background-color: #5D6D7E;
   height: 200px;
 }
 
@@ -45,15 +50,58 @@ div {
 }
 
 #area4 {
-  background-color: orange;
+  background-color: inherit;
   height: 100px;
+  text-align: center;
 }
 
 #area5 {
-  background-color: yellow;
+  background-color: inherit;
   height: 100px;
 }
 
+#sign-up-button {
+  border-radius: 0;
+  border-color: white;
+  border-width: 1px;
+}
+
+#log-in-button {
+  border-radius: 0;
+  border-color: white;
+  border-width: 1px;
+}
+
+#account-button {
+  border-radius: 0;
+  border-color: white;
+  border-width: 1px;
+}
+
+#cart-button {
+  border-radius: 0;
+  border-color: white;
+  border-width: 1px;
+}
+
+#title-button {
+}
+
+#search-button {
+  float: left;
+  width: 49%;
+  border-radius: 0;
+  border-color: white;
+  border-width: 1px;
+}
+
+#search-input {
+  float: left;
+  width: 49%;
+  border-radius: 0;
+  border-color: white;
+  border-width: 1px;
+}
 #account-image {
   height:50px;
   width:50px;
