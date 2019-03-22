@@ -22,21 +22,26 @@ div {
 }
 
 #area1 {
-  background-color: red;
+  background-color: inherit;
   height: 100px;
+  text-align: center;
 }
 
 #area2 {
-  background-color: blue;
+  background-color: inherit;
   height: 100px;
+  text-align: center;
 }
 
 #area3 {
-  background-color: green;
+  background-color: inherit;
   height: 200px;
   text-align: center;
   padding-top: 90px;
   padding-bottom: 90px;
+  font-family: fantasy;
+  font-size: 50px;
+  font-color: blue;
 }
 
 #area4 {
@@ -47,4 +52,18 @@ div {
 #area5 {
   background-color: yellow;
   height: 100px;
+}
+
+#account-image {
+  height:50px;
+  width:50px;
+}
+
+#cart-image {
+  height:50px;
+  width:50px;
+}
+
+.btn btn-link {
+  text-decoration-color: black;
 }
